@@ -2,6 +2,7 @@
   "version": "1.0.0.1",
   "release_date": "2025-09-08",
   "changelog": "Bug fixes and performance improvements",
-  "download_url": "https://github.com/aku1718/my-project/releases/download/1.0.0.1/UI.Prime-setup.exe",
+  "download_url": "https://github.com/aku1718/my-project/releases/download/1.0.0.0/UI.Prime-setup.exe",
   "installer": "UI.Prime-setup.exe"
+
 }
